@@ -1,0 +1,62 @@
+body{
+    background-color: purple;
+    color: white;
+    font-weight: bold;
+
+}
+form{
+    background-color: violet;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    box-shadow: 10px 10px 18px 10px violet;
+    text-align: 45px;
+    font-size: larger;
+}
+legend {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+input[type=text],input[type=email],input[type=password],input[type=pnumber],input[type=zip] {
+    width: 60%;
+    height: 30px;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+input{
+    margin-right: 20px;
+}
+button{
+    height: 40px;
+    width: 100%;
+    border-radius: 5px;
+    background-color: white;
+}
+#name{
+    margin-left: 120px;
+}
+#email{
+    margin-left: 50px;
+}
+#pwd{
+    margin-left: 90px;
+}
+#pnumber{
+    margin-left: 40px;
+}
+#Zip{
+    margin-left: 70px;
+}
+#About{
+    margin-left: 110px;
+}
+#Language{
+    width: 60%;
+    height: 30px;
+    margin-left: 80px;
+}
+#Male{
+    margin-left: 100px;
+}

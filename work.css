@@ -1,0 +1,31 @@
+.complete{
+    display: grid;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+.image1{
+    display: flex;
+    padding-left: 30px;
+    padding: 40px;
+}
+.image2{
+    display: flex;
+    padding-left: 30px;
+    padding: 40px;
+
+}
+.image3{
+    display: flex;
+    padding-left: 30px;
+    padding: 40px;
+}
+.p1{
+    margin-left: 30px;
+}
+.p2{
+    margin-left: 30px;
+}
+.p3{
+    margin-left: 30px;
+}
